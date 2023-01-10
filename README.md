@@ -10,3 +10,4 @@ The results are quite satisfing with simple gradient input images, as the follow
 ![visualization30](https://user-images.githubusercontent.com/77103965/178326894-995821dd-2210-4271-9763-8432437dd703.png)
 
 The visualization is based on corresponding deformed area ratios, but the normal are also computed in order to implement a physical-based simulation on blender.
+![interpolated](https://user-images.githubusercontent.com/77103965/211498472-b546bf63-a397-47a2-a321-aa55b0e04aec.png)
